@@ -7,7 +7,7 @@ First heart disease is Atrial Septal Defect. An atrial septal defect is a birth 
 
 Second heart disease is Mitral valve prolapse. Mitral valve prolapse(MVP) occurs when the mitral valve leaflet tissue is deformed and elongated so that the leaflets do not come together normally. This abnormal valve motion may allow blood to leak backwards from the left ventricle into the left atrium. This leak forcing the heart to pump more strongly.
 
-You can see a normal heart graph, with Atrial Septal Sefect and with Mitral Valve Prolapse in codes. Also, there are binary adjacency matrix in codes. There is a problem in MVP's binary adjacency matrix. If you can help me, I will be so happy.
+You can see a normal heart graph, with Atrial Septal Sefect and with Mitral Valve Prolapse in codes. Also, there are binary adjacency matrices in codes. There is a problem in MVP's binary adjacency matrices. If you can help me, I will be so happy.
 
 Resources:
 https://www.cdc.gov/ncbddd/heartdefects/atrialseptaldefect.html
